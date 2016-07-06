@@ -1,0 +1,3 @@
+multiple_nn是allreduce,reduce,bcast的源代码文件，multiple_nn_gather是gather的源代码文件，相应的运行这些代码的脚本是run.sh,run_gather.sh。
+testData文件夹下是训练数据，源代码用到的库是keras，那个文件夹下是安装文件。
+http://keras.io/ 官方网址,这个库调节神经网络结构还挺方便的。
